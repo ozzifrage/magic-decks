@@ -1,0 +1,30 @@
+1 Ajani, Adversary of Tyrants
+2 Baird, Argivian Recruiter
+1 Basri Ket
+4 Battlefield Forge
+2 Boros Charm
+3 Brute Force
+1 Esper Sentinel
+2 Favored Hoplite
+2 Furor of the Bitten
+4 Furycalm Snarl
+3 Gods Willing
+2 Guardian of New Benalia
+3 Hyena Umbra
+2 Martial Glory
+2 Mentor of the Meek
+4 Mountain
+8 Plains
+4 Rugged Prairie
+2 Swiftblade Vindicator
+2 Tajic, Legion's Edge
+3 Tenth District Legionnaire
+3 Valiant Veteran
+
+Sideboard
+2 Devout Decree
+2 Fry
+2 Patrician's Scorn
+3 Rip Apart
+2 Tormod's Crypt
+2 Truefire Captain
